@@ -82,9 +82,7 @@ int main() {
         printf("A primeira carta venceu !!! \n");
     } else if (populacao1 < populacao2) {
         printf("A segunda carta vendeu !!! \n");
-    } else {
-        printf("As cartas têm a mesma população.\n");
-    }
+   
 
    
 }
